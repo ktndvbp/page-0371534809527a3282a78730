@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fb491455177b1acd83cbeb9d",
+  "owner": "ktndvbp",
+  "repo": "page-0371534809527a3282a78730",
+  "title": "NovaCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0371534809527a3282a78730",
+      "a": "NovaCloud",
+      "b": "稳定全球clash加速器",
+      "entity": "NovaCloud",
+      "brand": "NovaCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2b7c74c6806e035a7eda0558e84b38ac82a58647b6660f2d2008c8b75d2831fb",
+      "content": {
+        "primary_entity": "NovaCloud",
+        "keyword1": "NovaCloud",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "选择设备客户端",
+          "AI_CLOSING_TEXT": "挑选合适套餐，配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "配置你的 NovaCloud 订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，分别对应每月 100GB、300GB 和 1000GB 流量，支持 3 台、5 台和 20 台设备同时在线。旗舰版包含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由，便于根据设备数量和流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "订阅周期、设备数量与线路类型共同决定实际体验。",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合轻量日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路加速选择",
+          "AI_FEATURE_TITLE_3": "团队批量接入",
+          "AI_GUIDE_INTRO": "从选套餐到客户端配置，三步完成订阅接入。",
+          "AI_GUIDE_TITLE": "订阅接入步骤",
+          "AI_HERO_INTRO": "NovaCloud 提供基础版、旗舰版和团队版三档订阅方案，覆盖每月 100GB 至 1000GB 流量，支持 3 至 20 台设备同时在线。按设备系统选择对应客户端并导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与用量选择合适套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖多设备场景",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持定制路由",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量和在线设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的在线设备数、流量额度和线路类型是否满足日常使用。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "NovaCloud 多端订阅配置",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么样的使用场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备在线，适合单人日常浏览、社交和偶尔观看流媒体，轻度使用下流量较为充裕。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么优势？",
+          "AI_FAQ_ANSWER_2": "旗舰版包含 IPLC 专线，针对跨境游戏和实时通信做延迟优化，同时支持 5 台设备在线和原生流媒体解锁，适合多设备家庭与游戏用户。",
+          "AI_FAQ_QUESTION_3": "团队版可以管理多台设备吗？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备在线，每月 1000GB 流量，并提供 VIP 专属高带宽节点、企业定制路由和专属客户经理，适合小型团队统一使用。",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_ANSWER_4": "月付适合短期或临时使用，年付更划算：基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，可按实际使用时长选择订阅周期。",
+          "AI_FAQ_QUESTION_5": "如何在设备上导入 NovaCloud 订阅？",
+          "AI_FAQ_ANSWER_5": "先按设备系统选择对应客户端，再在客户端内添加订阅地址并选择线路，最后保存启用即可，具体步骤可参考各客户端配置文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tsdnsc.cn",
+    "host": "tsdnsc.cn"
+  },
+  "file_hashes": {
+    "index.html": "33d24eae8fdf6c6b48782a699ec5faec3adf7b70b3a9c8807f6c7f135ebdb628",
+    "sitemap.xml": "8238dd5a2309d0ca77184c0f845802a6acfca9148244baffbc70824814eb77ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "68cb8aae2a64e55bb04f6cfa4406908515fd0426f30c11fcda45e5afbda5e594",
+    "robots.txt": "2c230f62597373869d6382eb83297d1cb5380897bd29944723d31ea06339ad18",
+    "d0e3fbb07218e08c1ee61653ec3aeffc.txt": "ded4f0546cfed542e7228d8a2ed90d41e0327a016f5f717b5016471f99c1a8b4"
+  },
+  "revision": "da39a75fbaef286bdce18b1a15009e200f5ac81137c7852ec066c83c14134b07"
+}
